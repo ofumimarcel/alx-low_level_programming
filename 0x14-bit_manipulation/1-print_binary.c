@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -6,7 +6,7 @@
  * @n: unsigned int
  * Return: binary number
  */
- 
+
 void print_binary(unsigned long int n)
 {
 
